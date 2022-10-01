@@ -10,4 +10,4 @@
 
 ![image](https://user-images.githubusercontent.com/75611417/193393424-6ced15cf-574e-4580-bb94-c89c5336f0bb.png)
 
-
+## Instruction to run the Application
