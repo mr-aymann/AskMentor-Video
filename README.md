@@ -4,7 +4,8 @@
 cd server
 nodemon server (or) npm start
 
-->To Start Frontend (or) To run Application
+->To Start Frontend (or) To run Application:
+
 npm start
 
 # Homepage
