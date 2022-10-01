@@ -1,12 +1,13 @@
 ## Instruction to run the Application
 
 ->To start Backend: <br />
-C:/video / :cd server <br />
-C:/video/server/ :nodemon server (or) npm start <br />
 
-->To Start Frontend (or) To run Application: <br/>
+   C:/video / :cd server <br />
+   C:/video/server/ :nodemon server (or) npm start <br />
 
-C:/video /: npm start
+->To start Frontend (or) To run Application: <br/>
+
+   C:/video /: npm start
 
 # Homepage
 
